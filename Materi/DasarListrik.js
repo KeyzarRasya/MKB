@@ -49,27 +49,15 @@ getVoltage(separate){
 }
 
   findV(i, r, callback) {
-    let [current, iUnit] = this.separate(i);
-    let [resistance, rUnit] = this.separate(r);
-    let iAmpere = this.getAmpere(current, iUnit)
-    let rOhm = this.getOhm(resistance, rUnit);
-    const result = {
-      current:i,
-      resistance:r,
-      voltage:`${iAmpere * rOhm}V`
-    }
-    callback(result)
+    let iAmpere = this.getAmpere(this.separate(i))
+    let rOhm = this.getOhm(this.separate(r));
+    callback(this.result(i, r, `${iAmpere * rOhm}V`))
   }
 
   findI(v, r, callback){
     let vVoltage = this.getVoltage(this.separate(v))
     let rOhm = this.getOhm(this.separate(r))
-    const result = {
-      current:`${vVoltage/rOhm}A`,
-      resistance:r,
-      voltage:v
-    }
-    callback(result)
+    callback(this.result(`${vVoltage/rOhm}A`, r, v))
   }
 
   findR(v, i, callback){
