@@ -1,6 +1,6 @@
 <h1>Welcome to MKB Repository</h1>
 
-Repository ini bertujuan sebagai sarana belajar yang open source agar teman teman MKB dapat menggunakan repositoru y ini untuk belajar ataupun pembuatan sebuah aplikasi yang memerlukan repository ini.
+Repository ini bertujuan sebagai sarana belajar yang open source agar teman teman MKB dapat menggunakan repository ini untuk belajar ataupun pembuatan sebuah aplikasi yang memerlukan repository ini.
 Bagi Teman Teman yang ingin berkontribusi untuk repository ini, saya persilahkan.
 
 Baru ada dua Materi ini repository ini yaitu:
