@@ -4,13 +4,10 @@ Repository ini bertujuan sebagai sarana belajar yang open source agar teman tema
 Bagi Teman Teman yang ingin berkontribusi untuk repository ini, saya persilahkan.
 
 Baru ada dua Materi ini repository ini yaitu:
-1. Dasar Listrik
-2. LinkedList (Struktur Data)
-
-<ul>
+<ol>
   <li><a href="#daslis">Dasar Listrik</a></li>
   <li><a href="#ll">Linked List</a></li>
-</ul>
+</ol>
 
 <div id="daslis">
   <h1>Dasar Listrik</h1>
