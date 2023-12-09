@@ -16,6 +16,9 @@ Baru ada dua Materi ini repository ini yaitu:
   <h1>Dasar Listrik</h1>
   Pada Setiap Method pada class dasar listrik memiliki tiga parameter, parameter satu dan dua adalah satuan yang akan digunakan untuk menghitung, parameter ketiga adalah sebuah callback yang mengembalikan sebuah objek.<br>
   <img width="249" alt="image" src="https://github.com/KeyzarRasya/MKB/assets/76760159/e38f90af-8f73-4dcc-9cbb-c493c77761ed"><br>
+  Menghasilkan Output sebuah Objek :<br>
+  <img width="403" alt="image" src="https://github.com/KeyzarRasya/MKB/assets/76760159/d1bc4e68-5263-4fa2-a422-926ee9ae2477"><br>
+
 </div>
 
 <div id="ll">
