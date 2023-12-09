@@ -34,7 +34,7 @@ class DasarListrik {
             return angka * 1
             break;
         case "MA":
-            return angka * 0.1000
+            return angka / 1000
             break;
   }
 }
