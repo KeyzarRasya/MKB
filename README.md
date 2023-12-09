@@ -14,8 +14,8 @@ Baru ada dua Materi ini repository ini yaitu:
 
 <div id="daslis">
   <h1>Dasar Listrik</h1>
-  Pada Setiap Method pada class dasar listrik memiliki tiga parameter, parameter satu dan dua adalah satuan yang akan digunakan untuk menghitung, parameter ketiga adalah sebuah callback yang mengembalikan sebuah objek.
-  <img width="249" alt="image" src="https://github.com/KeyzarRasya/MKB/assets/76760159/e38f90af-8f73-4dcc-9cbb-c493c77761ed">
+  Pada Setiap Method pada class dasar listrik memiliki tiga parameter, parameter satu dan dua adalah satuan yang akan digunakan untuk menghitung, parameter ketiga adalah sebuah callback yang mengembalikan sebuah objek.<br>
+  <img width="249" alt="image" src="https://github.com/KeyzarRasya/MKB/assets/76760159/e38f90af-8f73-4dcc-9cbb-c493c77761ed"><br>
 </div>
 
 <div id="ll">
